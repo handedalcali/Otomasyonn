@@ -36,7 +36,7 @@ namespace WindowsFormsApp20
             FrmMusteriler fr = new FrmMusteriler();
             fr.Show();
         }
-
+        // Hande
         private void FrmAnaSayfa_Load(object sender, EventArgs e)
         {
 
